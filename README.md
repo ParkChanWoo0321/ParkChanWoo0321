@@ -12,3 +12,7 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/사용자아이디/사용자아이디/blob/main/pacman.gif" width="800" alt="Pacman Activity Tracker" />
+</p>
