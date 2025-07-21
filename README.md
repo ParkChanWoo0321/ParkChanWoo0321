@@ -11,6 +11,21 @@
 
 </div>
 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>📊 Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkChanWoo0321&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+      <td align="center">
+        <h3>📈 GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=ParkChanWoo0321&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</p>
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParkChanWoo0321/pacman-contribution-graph/output/pacman-contribution-graph-dark.svg" />
@@ -18,17 +33,3 @@
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ParkChanWoo0321/pacman-contribution-graph/output/pacman-contribution-graph.svg" />
 </picture>
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>📊 Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro660&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-      <td align="center">
-        <h3>📈 GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=pro660&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</p>
