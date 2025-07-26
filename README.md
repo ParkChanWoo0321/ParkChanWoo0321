@@ -5,8 +5,8 @@
 <div align="center">
   
 ![C](https://img.shields.io/badge/C-CE93D8?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1565C0?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FBC02D?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FBC02D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B0BEC5?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
