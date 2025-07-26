@@ -31,7 +31,9 @@
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact 
+
+<div align="center">
 
 <a href="https://www.instagram.com/chanwoo0321/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FF4154?style=for-the-badge&logo=instagram&logoColor=white" />
