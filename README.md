@@ -31,6 +31,17 @@
 
 ---
 
+## 📬 Contact Me
+
+<a href="https://www.instagram.com/chanwoo0321/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FF4154?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:op9563_@naver.com">
+  <img src="https://img.shields.io/badge/op9563_@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+</a>
+
+---
+
 <p align="center">
   <table>
     <tr>
