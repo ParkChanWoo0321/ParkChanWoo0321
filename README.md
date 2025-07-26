@@ -16,7 +16,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-11557c?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-E6F7FF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-C0E8FF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
 
