@@ -6,7 +6,7 @@
   
 ![C](https://img.shields.io/badge/C-CE93D8?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-FBC02D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-616161?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-424242?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
