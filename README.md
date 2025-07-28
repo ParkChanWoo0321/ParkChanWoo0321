@@ -31,7 +31,7 @@
 
 ---
 
-## 📬 Contact 
+## 📲 Contact 
 
 <div align="center">
 
