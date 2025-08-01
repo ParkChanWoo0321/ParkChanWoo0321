@@ -1,8 +1,8 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=480&height=100&lines=%E2%9C%A8+Welcome+to+My+GitHub+%E2%9C%A8">
-</div>
+ <저는 바보입니다 > <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=480&height=100&lines=%E2%9C%A8+Welcome+to+My+GitHub+%E2%9C%A8">
+ </div>
 
 ---
 
