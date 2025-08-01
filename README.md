@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=30&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Welcome+to+My+GitHub">
+  <img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=30&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=480&height=100&lines=✨+Welcome+to+My+GitHub+✨">
 </div>
 
 ---
