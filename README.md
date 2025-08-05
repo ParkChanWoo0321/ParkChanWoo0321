@@ -14,6 +14,7 @@
 ![C++](https://img.shields.io/badge/C++-FBC02D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-424242?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-1565C0?style=for-the-badge&logo=openjdk&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
 
 </div>
 
@@ -22,7 +23,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-11557c?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-C0E8FF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
