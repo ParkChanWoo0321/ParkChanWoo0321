@@ -23,7 +23,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-11557c?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-663399?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
