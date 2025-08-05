@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-424242?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-1565C0?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-A7FC00?style=for-the-badge&logo=pycharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-9ACD32?style=for-the-badge&logo=pycharm&logoColor=white)
 
 </div>
 
