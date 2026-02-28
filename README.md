@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-ff0000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-adff2f?style=for-the-badge&logo=pycharm&logoColor=white" />
 </div>
 
 <br>
