@@ -44,6 +44,14 @@
   <img src="https://img.shields.io/badge/PyCharm-adff2f?style=for-the-badge&logo=pycharm&logoColor=white" />
 </div>
 
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yonheeee&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/ParkChanWoo0321" height="500px"width="50%" style="max-width: 600px; border: none; background: transparent;" alt="yonheeee's git animals farm" />
+  </a>
+</div>
+
+<br/>
+
 <br>
 
 <br>
